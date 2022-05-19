@@ -1,0 +1,693 @@
+Listagem de Complexos de Exibição por Município e UF - 2011;;;;;;
+;;;;;;
+#;UF;Município;População*;Nome Complexo ;Grupo ANCINE;Número de Salas
+1;AC;Cruzeiro Do Sul;79.173;Cine Romeu;Independente;1
+2;AC;Rio Branco;342.298;Cine JOÃO PAULO;Independente;2
+3;AC;Rio Branco;342.298;Via Verde Shopping;Araujo;4
+4;AL;Maceió;943.109;Centerplex  Shopping Pátio Maceió;Centerplex;5
+5;AL;Maceió;943.109;Cine Sesi Pajuçara;Independente;1
+6;AL;Maceió;943.109;Cinema Farol ;Lumiere;2
+7;AL;Maceió;943.109;Kinoplex Maceió;Gsr;6
+8;AM;Itacoatiara;87.970;Cine Theatro Dib Barbosa;Independente;1
+9;AM;Manaus;1.832.423;Cinema Amazonas;Gsr;6
+10;AM;Manaus;1.832.423;Cinemais Manaus Plaza Shopping;Cinemais;8
+11;AM;Manaus;1.832.423;Cinemais Shopping Millennium;Cinemais;8
+12;AM;Manaus;1.832.423;Playarte Manauara;Play;10
+13;AM;Manaus;1.832.423;Studio 5 Festival Mall Manaus;Cinemark;8
+14;AP;Macapá;407.023;Cine IMPERATOR;Independente;2
+15;AP;Macapá;407.023;Cine MACAPÁ ;Independente;2
+16;AP;Santana;102.860;Cine Santana;Independente;2
+17;BA;Alagoinhas;142.869;Laguna;Independente;1
+18;BA;Barreiras;139.284;Xodo;Independente;1
+19;BA;Feira De Santana;562.466;Cineplace Feira;Orient;4
+20;BA;Ibicaraí;23.910;Cine Ana;Independente;1
+21;BA;Ilhéus;185.801;Santa Clara;Independente;2
+22;BA;Itamaraju;63.052;Teatro Orion;Independente;1
+23;BA;Porto Seguro;129.324;Cine Plaza;Independente;1
+24;BA;Salvador;2.693.605;Barra;Orient;2
+25;BA;Salvador;2.693.605;Cine Lapa;Orient;2
+26;BA;Salvador;2.693.605;Cinemark Salvador;Cinemark;8
+27;BA;Salvador;2.693.605;Cinépolis Norte Shopping;Cinépolis;6
+28;BA;Salvador;2.693.605;Espaço Unibanco Glauber Rocha;Espaço;4
+29;BA;Salvador;2.693.605;Multiplex Iguatemi;Uci/Orient;12
+30;BA;Salvador;2.693.605;Ponto Alto;Orient;2
+31;BA;Salvador;2.693.605;Sala De Arte - Cine Xiv;Sala De Arte;1
+32;BA;Salvador;2.693.605;Sala De Arte - Cinema Do Museu;Sala De Arte;1
+33;BA;Salvador;2.693.605;SALA DE ARTE - UFBA (Sala De Arte Bahiano);Sala De Arte;1
+34;BA;Salvador;2.693.605;Sala De Arte Cine Vivo;Sala De Arte;2
+35;BA;Salvador;2.693.605;Sala Walter Da Silveira;Independente;1
+36;BA;Salvador;2.693.605;Uci - Aero Clube;Uci;10
+37;BA;Salvador;2.693.605;Uci Orient Paralela;Uci/Orient;6
+38;BA;Santo Antônio De Jesus;92.048;Itaguari;Independente;2
+39;BA;Simões Filho;119.759;Millenium Cine;Independente;1
+40;BA;Teixeira De Freitas;140.709;Cine Teixera ;Independente;2
+41;BA;Valença;89.509;Cine Vitória;Independente;1
+42;BA;Vitória Da Conquista;310.129;Moviecom Conquista Sul;Moviecom;3
+43;CE;Fortaleza;2.476.589;Aldeota;Arco;3
+44;CE;Fortaleza;2.476.589;Arcoplex  Pátio Dom Luís;Arco;2
+45;CE;Fortaleza;2.476.589;Centerplex Viasul;Centerplex;6
+46;CE;Fortaleza;2.476.589;Centro Cultural SESC (Antigo Cine São Luiz);Independente;1
+47;CE;Fortaleza;2.476.589;Cine Benfica;Independente;3
+48;CE;Fortaleza;2.476.589;Cinema North Shopping;Gsr;6
+49;CE;Fortaleza;2.476.589;Del Passeo;Arco;2
+50;CE;Fortaleza;2.476.589;Espaço Unibanco Dragão Do Mar - Ce;Espaço;2
+51;CE;Fortaleza;2.476.589;Uci Fortaleza;Uci/Gsr;12
+52;CE;Juazeiro Do Norte;252.841;Cariri;Orient;2
+53;CE;Limoeiro Do Norte;56.774;Cine Francisco Lucena;Independente;2
+54;CE;Maracanaú;211.267;Centerplex/ Shopping Maracanaú;Centerplex;2
+55;CE;Sobral;190.724;Renato Aragao;Independente;2
+56;DF;Brasília;2.609.997;Águas Claras;Arco;4
+57;DF;Brasília;2.609.997;Cine Brasilia;Independente;1
+58;DF;Brasília;2.609.997;Cine Drive In;Independente;1
+59;DF;Brasília;2.609.997;Cinema Park (Parkplex);Gsr;11
+60;DF;Brasília;2.609.997;Cinema Terraço;Gsr;5
+61;DF;Brasília;2.609.997;Espaço Itaú De Cinema;Espaço;8
+62;DF;Brasília;2.609.997;Kinoplex Boulevard;Gsr;4
+63;DF;Brasília;2.609.997;Patio Brasil;Gsr;6
+64;DF;Brasília;2.609.997;Pier 21;Cinemark;13
+65;DF;Brasília;2.609.997;Premier Sobradinho;Premier;3
+66;DF;Brasília;2.609.997;Shopping Iguatemi Brasília;Cinemark;6
+67;DF;Brasília;2.609.997;Taguatinga Shopping;Cinemark;9
+68;DF;Brasília;2.609.997;Top Mall / Top Cine Taguatinga;Independente;2
+69;ES;Aracruz;83.152;Ravenna;Independente;1
+70;ES;Cachoeiro De Itapemirim;191.041;Cine Ritz  Sul;Afa;2
+71;ES;Cachoeiro De Itapemirim;191.041;Cine Shop. Cachoeiro;Afa;2
+72;ES;Castelo;34.900;Cine Teatro Castelo;Independente;1
+73;ES;Colatina;112.431;Gama - Colatina;Independente;2
+74;ES;Guarapari;106.582;Cine Ritz Beira Mar;Afa;1
+75;ES;Guarapari;106.582;Cine Ritz Guarapari;Afa;3
+76;ES;Linhares;143.508;Cine Ritz Conceição;Afa;3
+77;ES;Marataízes;34.411;Cine Via Sul;Afa;1
+78;ES;São Mateus;110.453;Cine Teatro São Mateus;Independente;1
+79;ES;Serra;416.028;Cine Teatro Alegria;Independente;2
+80;ES;Serra;416.028;Multiplex Laranjeiras;Sercla;4
+81;ES;Vila Velha;419.853;Cinema Kinoplex Pr. Costa;Gsr;7
+82;ES;Vitória;330.526;Cineritz Jardins;Afa;2
+83;ES;Vitória;330.526;Cineritz Norte Sul;Afa;6
+84;ES;Vitória;330.526;Metropolis;Independente;1
+85;ES;Vitória;330.526;Shopping Vitória;Cinemark;8
+86;GO;Anápolis;338.544;Anashopping;Independente;4
+87;GO;Anápolis;338.544;Cinemais Anapolis;Cinemais;5
+88;GO;Aparecida De Goiânia;465.092;Lumiere Portal Sul;Lumiere;4
+89;GO;Aparecida De Goiânia;465.092;Moviecom Buriti (Shopping Buriti);Moviecom;6
+90;GO;Caldas Novas;72.071;Sétima Arte (Caldas Novas);Artecine;2
+91;GO;Catalão;88.353;Cine Lumiere Catalão Shopping;Lumiere;3
+92;GO;Formosa;101.730;Premier Formosa;Premier;1
+93;GO;Goiânia;1.318.148;Cine Cultura;Independente;1
+94;GO;Goiânia;1.318.148;Cine Flamboyant - Cinemark;Cinemark;8
+95;GO;Goiânia;1.318.148;Cine Lumiére (Shopping Bougainville);Lumiere;5
+96;GO;Goiânia;1.318.148;Cine Lumiére Araguaia;Lumiere;5
+97;GO;Goiânia;1.318.148;Cine Portal Shopping;Lumiere;3
+98;GO;Goiânia;1.318.148;Cine Ritz;Independente;2
+99;GO;Goiânia;1.318.148;Cinema Goiânia Shopping;Gsr;6
+100;GO;Goiânia;1.318.148;Premiere Multiplex Banana;Independente;5
+101;GO;Goiatuba;32.597;Sétima Arte (Goiatuba);Artecine;1
+102;GO;Itaberaí;35.946;Cine Imperial;Independente;1
+103;GO;Itumbiara;93.762;CINE 7ª ARTE ;Artecine;2
+104;GO;Itumbiara;93.762;PLAZA Itumbiara;Independente;3
+105;GO;Jataí;88.970;Multicine Jataí;Multicine;3
+106;GO;Luziânia;177.098;Cine Teatro Junqueira / Centro De Cultura E Convenção;Independente;1
+107;GO;Mineiros;54.003;Multicine Mineiros;Multicine;3
+108;GO;Morrinhos;41.803;Cine Morrinhos;Independente;1
+109;GO;Rio Verde;181.020;Multicine Rio Verde;Multicine;3
+110;GO;Valparaíso De Goiás;135.908;Cine Valparaiso;Multicine;2
+111;MA;Imperatriz;248.805;Imperacine / TIMBIRA;Independente;1
+112;MA;Imperatriz;248.805;Imperacine / Tocantins;Independente;2
+113;MA;São Luís;1.027.429;Box São Luiz;Box;10
+114;MA;São Luís;1.027.429;Cine Praia Grande;Independente;1
+115;MA;São Luís;1.027.429;Rio Anil Shopping;Cinesystem;6
+116;MG;Além Paraíba;34.406;Cine Teatro Brasil -Além Paraíba;Independente;1
+117;MG;Alfenas;74.297;Cine Art Café (Alfenas);Independente;2
+118;MG;Araguari;110.402;Cine Teatro Odette;Independente;1
+119;MG;Araxá;94.798;Cine Teatro Brasil;Independente;1
+120;MG;Arcos;36.897;Josué's Arcos;Josue's Cine;1
+121;MG;Barbacena;127.217;Cine Barbacena;Independente;2
+122;MG;Belo Horizonte;2.385.639;Bh Shopping;Cinemark;10
+123;MG;Belo Horizonte;2.385.639;Boulevard Shopping Center;Cineart;6
+124;MG;Belo Horizonte;2.385.639;Cine Tj Pampulha Mall;Independente;6
+125;MG;Belo Horizonte;2.385.639;Cineclube Unibanco Savassi ;Usina;1
+126;MG;Belo Horizonte;2.385.639;Diamond Mall;Cinemark;6
+127;MG;Belo Horizonte;2.385.639;Minas Shopping;Cineart;6
+128;MG;Belo Horizonte;2.385.639;Multiplex Cidade ;Cineart;8
+129;MG;Belo Horizonte;2.385.639;Multiplex Del Rey ;Cineart;7
+130;MG;Belo Horizonte;2.385.639;Multiplex Via Shopping Barreiro ;Cineart;5
+131;MG;Belo Horizonte;2.385.639;Patio Savassi;Cinemark;8
+132;MG;Belo Horizonte;2.385.639;Shopping Norte;Sercla;5
+133;MG;Belo Horizonte;2.385.639;Usiminas Belas Artes Cinemas ;Usina;3
+134;MG;Belo Horizonte;2.385.639;Usiminas Paragem Cinema;Embracine;5
+135;MG;Betim;383.570;Cines Betim Shopping ;Cineart;3
+136;MG;Bicas;13.719;Fama Cine Teatro;Independente;1
+137;MG;Boa Esperança;38.627;Cine Coral;Independente;1
+138;MG;Cambuí;26.758;Cine Cambuí;Independente;1
+139;MG;Campo Belo;51.725;Cine Campo Belo;Josue's Cine;1
+140;MG;Cataguases;70.200;Edgard Cine Teatro;Independente;1
+141;MG;Caxambu;21.672;Novo Cine Caxambu;Cinemaníaca;1
+142;MG;Conselheiro Lafaiete;117.562;Cine Glória;Independente;1
+143;MG;Contagem;608.714;Big Shopping;Sercla;5
+144;MG;Contagem;608.714;Multiplex Itau Power ;Cineart;6
+145;MG;Divinópolis;215.246;Cine Ritz Divinópolis;Afa;5
+146;MG;Formiga;65.298;Josué's Cine;Josue's Cine;1
+147;MG;Governador Valadares;264.960;Cine Gv - Gv Shopping;Independente;2
+148;MG;Guaxupé;49.614;Cine 14 Bis (Sala Santos Dumont);Independente;1
+149;MG;Ipatinga;241.538;Moviecom Vale Do Aço;Moviecom;3
+150;MG;Itabira;110.663;Cinemax;Independente;2
+151;MG;Itajubá;91.159;Cine Club Itajubá;Independente;1
+152;MG;Ituiutaba;97.791;Bristol;Independente;1
+153;MG;Juiz De Fora;520.810;Alameda Shopping;Espaço;5
+154;MG;Juiz De Fora;520.810;Cinearte Palace;Espaço;2
+155;MG;Juiz De Fora;520.810;Duocine Santa Cruz (Santa Cruz Shopping);Cinemaníaca;2
+156;MG;Juiz De Fora;520.810;Uci Kinoplex Independência;Uci/Gsr;5
+157;MG;Lagoa Santa;53.644;Cine 9 Sete;Independente;1
+158;MG;Lavras;93.231;Centerplex Lavras;Centerplex;2
+159;MG;Machado;38.981;Cine Art Café;Independente;1
+160;MG;Manhuaçu;80.530;Centro Cultural João Bracks;Independente;1
+161;MG;Montes Claros;366.134;Ibi Cinemas;Afa;4
+162;MG;Muriaé;101.430;Mar Center ;Independente;1
+163;MG;Nova Serrana;76.482;Serra Cine;Independente;1
+164;MG;Oliveira;39.636;Center Cine;Independente;1
+165;MG;Ouro Preto;70.588;Cine Teatro Vila Rica;Independente;1
+166;MG;Pará De Minas;85.075;Café Cine Estação Do Pará;Independente;1
+167;MG;Paracatu;85.447;Cine Teatro Santo Antonio;Independente;1
+168;MG;Passos;106.987;Cine Roxy;Independente;1
+169;MG;Patos De Minas;139.848;Cinemais Patos;Cinemais;3
+170;MG;Pedro Leopoldo;59.213;Maraja;Independente;1
+171;MG;Piumhi;32.121;Cine Victor Agresta;Independente;1
+172;MG;Poços De Caldas;153.725;Centerplex Minas Sul;Centerplex;4
+173;MG;Poços De Caldas;153.725;Ultravisão;Independente;4
+174;MG;Pompéu;29.336;Cine Arte Pompéu;Independente;1
+175;MG;Pouso Alegre;132.445;P.A. Cine Shopping ;Cinemaníaca;2
+176;MG;Santa Bárbara;28.160;Cine Teatro Vitória;Independente;1
+177;MG;Santo Antônio Do Monte;26.167;Josué's Cine Samonte;Josue's Cine;1
+178;MG;São João Del Rei;84.918;Cine Glória Shopping;Independente;1
+179;MG;São João Del Rei;84.918;Glória;Independente;1
+180;MG;São Lourenço;42.020;Cine Minas Sul - São Lourenço;Centerplex;1
+181;MG;São Sebastião Do Paraíso;65.490;Cine 14 Bis (Sala Demoiselle);Independente;1
+182;MG;Sete Lagoas;216.399;Cineplex Sete Lagoas;Independente;4
+183;MG;Sete Lagoas;216.399;Fox Cine Clube;Independente;2
+184;MG;Três Corações;73.339;Cine Center Três Corações - Mg;Gcine;2
+185;MG;Uberaba;299.360;Cinemais Uberaba ;Cinemais;6
+186;MG;Uberlândia;611.903;Cinemais Uberlândia;Cinemais;8
+187;MG;Varginha;124.162;Master;Independente;1
+188;MG;Viçosa;72.785;Calçadão;Independente;1
+189;MS;Campo Grande;796.252;Cine Bourbon;Cinemark;9
+190;MS;Campo Grande;796.252;Cine Campo Grande;Araujo;2
+191;MS;Campo Grande;796.252;Cinépolis Norte Sul Plaza;Cinépolis;7
+192;MS;Dourados;198.421;Dourados Cine - Shopping Avenida Center;Araujo;3
+193;MS;Naviraí;47.173;Cine Oriente;Independente;1
+194;MS;Três Lagoas;103.536;Cine Tres Lagoas (Fox Cine);Chainça;1
+195;MT;Cáceres;88.427;Cine Teatro Xin;Independente;2
+196;MT;Cuiabá;556.298;Cinemais Cuiabá ;Cinemais;8
+197;MT;Cuiabá;556.298;Multiplex Pantanal;Araujo;8
+198;MT;Primavera Do Leste;53.003;Vila Rica;Independente;1
+199;MT;Rondonópolis;198.949;Cine.Com;Independente;3
+200;MT;Sinop;116.013;Vip 2;Independente;2
+201;MT;Sorriso;68.894;Cine Park / Cine Laser;Independente;1
+202;MT;Tangará Da Serra;85.319;Cine Shop;Independente;2
+203;PA;Altamira;100.736;Casa De Cultura - Cinema Lúcio Mauro;Independente;1
+204;PA;Belém;1.402.056;Cine Estação Das Docas;Independente;1
+205;PA;Belém;1.402.056;Cinépolis Boulevard Belém;Cinépolis;7
+206;PA;Belém;1.402.056;Moviecom Belém;Moviecom;5
+207;PA;Belém;1.402.056;Moviecom Castanheiras;Moviecom;7
+208;PA;Castanhal;176.116;Moviecom Castanhal;Moviecom;3
+209;PA;Parauapebas;160.228;Cine Teatro Carajás;Independente;1
+210;PA;Parauapebas;160.228;Shopping Parauapebas;Circuito;4
+211;PA;Tucuruí;98.919;Moviecom Tucuruí;Moviecom;3
+212;PB;Campina Grande;387.643;Multiplex Campina;Sercla;5
+213;PB;João Pessoa;733.154;Box João Pessoa- Manaíra;Box;8
+214;PB;João Pessoa;733.154;Cine Multiplex Tambia;Sercla;6
+215;PB;João Pessoa;733.154;Cinespaço Mag Shopping;Espaço;4
+216;PB;Patos;101.358;Patos ;Gcine;2
+217;PE;Afogados Da Ingazeira;35.254;Cine Teatro São José;Independente;1
+218;PE;Caruaru;319.579;Centerplex North Shopping Caruaru;Centerplex;4
+219;PE;Garanhuns;130.303;Cine Eldorado -Pe;Moviemax;2
+220;PE;Jaboatão Dos Guararapes;649.787;Box Guararapes;Box;12
+221;PE;Petrolina;299.751;River;Orient;4
+222;PE;Recife;1.546.516;Apolo;Independente;1
+223;PE;Recife;1.546.516;Cine Rosa E Silva;Independente;3
+224;PE;Recife;1.546.516;Cine São Luiz;Independente;1
+225;PE;Recife;1.546.516;Cinema Boa Vista;Gsr;6
+226;PE;Recife;1.546.516;Cinema Da Fundação Joaquim Nabuco;Independente;1
+227;PE;Recife;1.546.516;Uci Kinoplex Casa Forte;Uci/Gsr;5
+228;PE;Recife;1.546.516;Uci Recife;Uci/Gsr;10
+229;PE;Recife;1.546.516;Uci Tacaruna;Uci/Gsr;8
+230;PE;São Lourenço Da Mata;103.854;Cine Royal;Moviemax;1
+231;PI;Parnaíba;146.735;Cinemas Delta;Independente;2
+232;PI;Teresina;822.363;Movieplex Cinemas  ;Movieplex;3
+233;PI;Teresina;822.363;Movieplex Cinemas  (Cine Teresina);Movieplex;5
+234;PR;Apucarana;121.924;G7 Cinema (Shopping Centro Norte);Independente;2
+235;PR;Arapongas;105.587;Cine Teatro Mauá;Independente;1
+236;PR;Campo Largo;113.881;Cine Plus Campo Largo;Cineplus;2
+237;PR;Campo Mourão;87.710;Cine Maxs;Independente;1
+238;PR;Cascavel;289.339;Arcoplex Cascavél ;Arco;4
+239;PR;Cascavel;289.339;Cine West Side;Independente;2
+240;PR;Cianorte;70.922;Cianorte/Municipal;Independente;1
+241;PR;Curitiba;1.764.540;Agua Verde;Cineplus;2
+242;PR;Curitiba;1.764.540;Cidade Curitiba;Cinesystem;5
+243;PR;Curitiba;1.764.540;Cine Batel - Shop Curitiba;Cinesystem;6
+244;PR;Curitiba;1.764.540;Cinemark - Park Shopping Barigui;Cinemark;8
+245;PR;Curitiba;1.764.540;Cinemark - Shopping Mueller;Cinemark;8
+246;PR;Curitiba;1.764.540;Cineplex Batel;Independente;5
+247;PR;Curitiba;1.764.540;Cineplus Jardins;Cineplus;4
+248;PR;Curitiba;1.764.540;Cineplus Xaxim;Cineplus;3
+249;PR;Curitiba;1.764.540;Cinesystem - Shopping Total;Cinesystem;5
+250;PR;Curitiba;1.764.540;Dom Bosco Imax Theatre;Uci;1
+251;PR;Curitiba;1.764.540;Shopping Palladium;Uci;8
+252;PR;Curitiba;1.764.540;Uci Estação;Uci;10
+253;PR;Curitiba;1.764.540;Unibanco Arteplex ;Espaço;5
+254;PR;Foz Do Iguaçu;255.900;Cine Boulevard  ;Independente;4
+255;PR;Foz Do Iguaçu;255.900;Cine Cataratas ;Independente;4
+256;PR;Francisco Beltrão;79.850;Cine Max / Cultural Glória ;Independente;1
+257;PR;Guarapuava;168.262;Cine Xv 01;Independente;2
+258;PR;Ibiporã;48.662;Cine Teatro Padre José Zanelli;Independente;1
+259;PR;Irati;56.503;Cine Unicentro Guarapuava / Cine Irati;Independente;1
+260;PR;Ivaiporã;31.781;Cine Ivaiporã;Independente;1
+261;PR;Jacarezinho;39.082;Cine Iguacu;Independente;1
+262;PR;Londrina;511.278;Cine Com-Tour;Independente;1
+263;PR;Londrina;511.278;Cines Catuai;Araujo;7
+264;PR;Londrina;511.278;Lumiere Royal Plaza;Lumiere;5
+265;PR;Maringá;362.329;Catuaí Shopping Maringá;Araujo;5
+266;PR;Maringá;362.329;Cidade Maringá / Cicuito Maringá;Circuito;3
+267;PR;Maringá;362.329;Cines Avenida Center;Araujo;5
+268;PR;Maringá;362.329;Cinesystem Park Maringá;Cinesystem;5
+269;PR;Paranaguá;141.477;Hipermercado Condor ;Cinesystem;2
+270;PR;Paranavaí;82.038;Aston;Independente;1
+271;PR;Pato Branco;73.148;Teatro Municipal De Pato Branco / CINE TEATRO NAURA RIGON;Independente;1
+272;PR;Ponta Grossa;314.527;Lumiere Shopping Total;Lumiere;5
+273;PR;Ponta Grossa;314.527;Multiplex Palladium;Araujo;4
+274;PR;Rondon;9.032;Cine Horizonte;Independente;1
+275;PR;São José Dos Pinhais;268.807;Cinemark Shopping São José;Cinemark;5
+276;PR;Toledo;120.934;Panambi;Independente;2
+277;PR;Umuarama;101.442;Vip ;Independente;1
+278;PR;União Da Vitória;53.058;Luz;Independente;1
+279;RJ;Angra Dos Reis;173.369;Angra Shopping;Independente;2
+280;RJ;Araruama;114.250;Lagoa Shopping;Cinemagic;2
+281;RJ;Armação Dos Búzios;28.278;Cine Clube Buzios (Bardot);Independente;1
+282;RJ;Barra Mansa;178.355;Cine Show Barra Mansa;Tatu;2
+283;RJ;Bom Jesus Do Itabapoana;35.546;Misterplay / Cine Mais;Independente;1
+284;RJ;Cabo Frio;190.786;Maximovie Recreio 3d / Cine Recreio;Independente;2
+285;RJ;Campos Dos Goytacazes;468.086;Cineritz Campos (Cinemagic Campos Rio);Cinemagic;6
+286;RJ;Campos Dos Goytacazes;468.086;Shopping Boulevard Campos;Araujo;5
+287;RJ;Duque De Caxias;861.157;Caxias Shopping ;Araujo;6
+288;RJ;Duque De Caxias;861.157;Cine Teatro Oscarito;Independente;1
+289;RJ;Duque De Caxias;861.157;Cinemaxx - Cine Unigranrio Shopping;Cinemaxx;2
+290;RJ;Duque De Caxias;861.157;Santa Rosa Caxias ;Independente;2
+291;RJ;Itaguaí;111.170;Patiomix Costa Verde;Sercla;4
+292;RJ;Itaperuna;96.541;Gloria Itaperuna;Cinemaxx;1
+293;RJ;Macaé;212.433;Shopping Plaza Macaé (Cine Magic);Cinemagic;5
+294;RJ;Nilópolis;157.710;Nilópolis SQUARE ;Sercla;3
+295;RJ;Niterói;489.720;Cinema Bay Market;Gsr;4
+296;RJ;Niterói;489.720;Plaza Shopping Niterói;Cinemark;7
+297;RJ;Nova Friburgo;182.747;Cine Show Nova Friburgo;Tatu;3
+298;RJ;Nova Iguaçu;799.047;Cinema Iguaçu Top;Gsr;3
+299;RJ;Paracambi;47.634;Cine Imperial Paracambi;Cinemaxx;1
+300;RJ;Petrópolis;296.565;Cine Bauhaus;Independente;2
+301;RJ;Petrópolis;296.565;Cine Itaipava;Independente;1
+302;RJ;Petrópolis;296.565;Hipershopping ABC;Cinemaxx;2
+303;RJ;Petrópolis;296.565;Top Cine Mercado Estação;Cinemaxx;3
+304;RJ;Resende;120.937;Cine Show Resende;Tatu;3
+305;RJ;Resende;120.937;Cinemais Resende;Cinemais;4
+306;RJ;Rio Das Ostras;110.992;Cineritz Holiday ;Cinemagic;2
+307;RJ;Rio De Janeiro;6.355.949;Carioca Shopping;Cinemark;8
+308;RJ;Rio De Janeiro;6.355.949;Cine Carioca;Cinemagic;1
+309;RJ;Rio De Janeiro;6.355.949;Cine Glória   ;Independente;1
+310;RJ;Rio De Janeiro;6.355.949;Cine Jóia;Independente;1
+311;RJ;Rio De Janeiro;6.355.949;Cine Santa;Independente;1
+312;RJ;Rio De Janeiro;6.355.949;Cine10 Sulacap;Espaço;6
+313;RJ;Rio De Janeiro;6.355.949;Cinema Iguatemi ;Gsr;7
+314;RJ;Rio De Janeiro;6.355.949;Cinema Leblon;Gsr;2
+315;RJ;Rio De Janeiro;6.355.949;Cinema Rio Sul;Gsr;4
+316;RJ;Rio De Janeiro;6.355.949;Cinema Roxy;Gsr;3
+317;RJ;Rio De Janeiro;6.355.949;Cinema São Luiz;Gsr;4
+318;RJ;Rio De Janeiro;6.355.949;Cinema Via Parque;Gsr;6
+319;RJ;Rio De Janeiro;6.355.949;Cinemark Botafogo;Cinemark;6
+320;RJ;Rio De Janeiro;6.355.949;Cinépolis Lagoon;Cinépolis;6
+321;RJ;Rio De Janeiro;6.355.949;Cinesystem Bangu;Cinesystem;6
+322;RJ;Rio De Janeiro;6.355.949;Cinesystem Ilha Plaza;Cinesystem;4
+323;RJ;Rio De Janeiro;6.355.949;Cinesystem Recreio Shopping;Cinesystem;4
+324;RJ;Rio De Janeiro;6.355.949;Downtown;Cinemark;12
+325;RJ;Rio De Janeiro;6.355.949;Espaço De Cinema - Grupo Estação;Estação;3
+326;RJ;Rio De Janeiro;6.355.949;Espaço Rio Design Barra;Espaço;3
+327;RJ;Rio De Janeiro;6.355.949;Estação Barra Point;Estação;2
+328;RJ;Rio De Janeiro;6.355.949;Estação Botafogo;Estação;3
+329;RJ;Rio De Janeiro;6.355.949;Estação Ipanema;Estação;2
+330;RJ;Rio De Janeiro;6.355.949;Estação Vivo Gávea;Estação;5
+331;RJ;Rio De Janeiro;6.355.949;Instituto Moreira Salles;Espaço;1
+332;RJ;Rio De Janeiro;6.355.949;Kinoplex Fashion Mall;Gsr;4
+333;RJ;Rio De Janeiro;6.355.949;Kinoplex Nova América ;Gsr;7
+334;RJ;Rio De Janeiro;6.355.949;Kinoplex Shopping Leblon;Gsr;4
+335;RJ;Rio De Janeiro;6.355.949;Kinoplex Shopping Tijuca;Gsr;6
+336;RJ;Rio De Janeiro;6.355.949;Laura Alvim;Estação;3
+337;RJ;Rio De Janeiro;6.355.949;Museu Da República;Espaço;1
+338;RJ;Rio De Janeiro;6.355.949;Odeon;Estação;1
+339;RJ;Rio De Janeiro;6.355.949;Ponto Cine;Independente;1
+340;RJ;Rio De Janeiro;6.355.949;Redecine Sesc - Jacarepaguá;Cinemagic;3
+341;RJ;Rio De Janeiro;6.355.949;Shopping Jardim Guadalupe;Araujo;5
+342;RJ;Rio De Janeiro;6.355.949;Star Center Shopping;Star;4
+343;RJ;Rio De Janeiro;6.355.949;Uci Kinoplex - Norte Shopping;Uci/Gsr;10
+344;RJ;Rio De Janeiro;6.355.949;Uci New York;Uci;18
+345;RJ;Rio De Janeiro;6.355.949;Unibanco Arteplex Rj;Espaço;6
+346;RJ;Rio De Janeiro;6.355.949;Via Brasil Shopping (Irajá);Cinesystem;6
+347;RJ;Rio De Janeiro;6.355.949;West Shopping Campo Grande ;Gsr;5
+348;RJ;São Gonçalo;1.008.064;Box São Gonçalo;Box;8
+349;RJ;São Gonçalo;1.008.064;Cinespaço Boulevard Shopping;Espaço;6
+350;RJ;São João De Meriti;459.379;Cinema Grande Rio;Gsr;6
+351;RJ;Teresópolis;165.716;Cine Show Teresópolis ;Tatu;3
+352;RJ;Três Rios;77.851;Tres Rios;Independente;1
+353;RJ;Valença;72.268;Cine Glória;Independente;1
+354;RJ;Vassouras;34.637;Cine Casario Shopping / Cinemaxx  Vassouras;Cinemaxx;1
+355;RJ;Volta Redonda;259.011;9 De Abril;Independente;1
+356;RJ;Volta Redonda;259.011;Cine Show V. Redonda;Tatu;4
+357;RJ;Volta Redonda;259.011;Gacemss;Independente;1
+358;RN;Mossoró;263.344;Cine Mossoró West Shopping;Multicine;5
+359;RN;Natal;810.780;Moviecom Praia Shopping;Moviecom;7
+360;RN;Natal;810.780;Shopping Midway Mall;Cinemark;7
+361;RO;Ariquemes;91.570;Columbia;Independente;1
+362;RO;Cacoal;78.958;Cineart;Independente;1
+363;RO;Ji-Paraná;117.363;Cine Milani;Independente;1
+364;RO;Porto Velho;435.732;Cine Rio;Independente;1
+365;RO;Porto Velho;435.732;Cine Veneza;Independente;1
+366;RO;Porto Velho;435.732;Porto Velho Shopping;Araujo;5
+367;RO;Rolim De Moura;50.899;Columbia 3;Independente;1
+368;RO;Vilhena;77.937;Cine Laser;Independente;1
+369;RR;Boa Vista;290.741;Super K;Independente;6
+370;RS;Bagé;116.944;Cine 7;Independente;1
+371;RS;Bento Gonçalves;108.490;Marcopolo;Arco;3
+372;RS;Bento Gonçalves;108.490;Movie Arte Bento;Independente;2
+373;RS;Cachoeira Do Sul;83.516;Cine Via Sete (Cachoeira Do Sul);Independente;1
+374;RS;Cachoeirinha;119.100;Shopping Do Vale;Arco;3
+375;RS;Campo Bom;60.539;Cei Campo Bom;Arco;2
+376;RS;Canoas;325.188;Canoas Shopping;Cinemark;7
+377;RS;Capão Da Canoa;42.926;Cine América;Independente;1
+378;RS;Capão Da Canoa;42.926;CINE CAPÃO (Capão Da Canoa Shopping);Independente;2
+379;RS;Carazinho;59.445;Cine Brasília;Independente;1
+380;RS;Carlos Barbosa;25.551;Cultural - Ideale;Independente;1
+381;RS;Caxias Do Sul;441.332;Centro Municipal De Cultura Dr. Henrique Ordovás Filho/Sala De Cinema Ulysses Geremia;Independente;1
+382;RS;Caxias Do Sul;441.332;Cinépolis San Pelegrino;Cinépolis;6
+383;RS;Caxias Do Sul;441.332;Gnc Caxias;Gnc;6
+384;RS;Caxias Do Sul;441.332;Univ. Caxias (Cultural);Independente;1
+385;RS;Erechim;96.756;Movie Arte Cinemas ;Independente;1
+386;RS;Gramado;32.555;Embaixador;Independente;1
+387;RS;Lajeado;72.337;Unishopping;Arco;2
+388;RS;Montenegro;59.812;Cine Tanópolis;Independente;1
+389;RS;Nova Petrópolis;19.210;Cine Imigrante;Independente;2
+390;RS;Novo Hamburgo;239.151;Cinespaço Novo Hamburgo;Espaço;4
+391;RS;Passo Fundo;186.082;Arcoiris Bourbon Passo Fundo;Arco;2
+392;RS;Passo Fundo;186.082;Cine Bélla Cittá;Arco;2
+393;RS;Pelotas;328.864;Arco Íris Art;Arco;3
+394;RS;Porto Alegre;1.413.094;Arcoiris Bourbon Porto Alegre/ Bourbon Assis Brasil;Arco;2
+395;RS;Porto Alegre;1.413.094;Arcoiris Rua Da Praia;Arco;2
+396;RS;Porto Alegre;1.413.094;Barra Shopping Sul;Cinemark;8
+397;RS;Porto Alegre;1.413.094;Boulevard Strip Center;Arco;2
+398;RS;Porto Alegre;1.413.094;Bourbon Ipiranga;Cinemark;8
+399;RS;Porto Alegre;1.413.094;Cine Bancários;Independente;1
+400;RS;Porto Alegre;1.413.094;Cine Santander Cultural;Independente;1
+401;RS;Porto Alegre;1.413.094;Cine Victória ;Arco;2
+402;RS;Porto Alegre;1.413.094;"""Cinemateca Paulo Amorim (Sala Eduardo Hirtz, Sala Norberto Lubisco E Sala Paulo Amorim)""";Independente;3
+403;RS;Porto Alegre;1.413.094;Gnc Iguatemi;Gnc;6
+404;RS;Porto Alegre;1.413.094;Gnc Lindóia;Gnc;2
+405;RS;Porto Alegre;1.413.094;Gnc Moinhos;Gnc;4
+406;RS;Porto Alegre;1.413.094;Gnc Praia De Belas;Gnc;3
+407;RS;Porto Alegre;1.413.094;Guion Center;Guion;3
+408;RS;Porto Alegre;1.413.094;Instituto NT;Independente;1
+409;RS;Porto Alegre;1.413.094;Sala P.F. GASTAL;Independente;1
+410;RS;Porto Alegre;1.413.094;Shopping João Pessoa (Cines Center);Cinesystem;4
+411;RS;Porto Alegre;1.413.094;Total Poa;Cinesystem;5
+412;RS;Porto Alegre;1.413.094;Unibanco Arteplex Poa;Espaço;8
+413;RS;Quaraí;22.946;Cine Carlos Gomes / Cine Grêmio Quaraí;Independente;1
+414;RS;Rio Grande;198.048;Cine Dunas - Cassino;Independente;1
+415;RS;Rio Grande;198.048;Cine Dunas - Cidade;Independente;1
+416;RS;Santa Cruz Do Sul;119.199;Arcoiris Santa Cruz;Arco;3
+417;RS;Santa Maria;262.368;Arcoplex Royal Plaza;Arco;4
+418;RS;Santa Maria;262.368;Cine Movie Arte;Independente;2
+419;RS;Santa Rosa;68.861;Centro Cultural;Independente;1
+420;RS;Santana Do Livramento;81.820;Cine Internacional;Independente;1
+421;RS;Santo Ângelo;76.239;Cine Cisne;Independente;2
+422;RS;São Leopoldo;215.664;Shopping Bourbon (Cinesystem São Leopoldo);Cinesystem;5
+423;RS;São Luiz Gonzaga;34.393;Cine Lux;Independente;1
+424;RS;São Sebastião Do Caí;22.103;Centro De Cultura De São Sebastião Do Caí;Independente;1
+425;RS;Sapiranga;75.430;Centro De Cultura;Independente;1
+426;RS;Três Coroas;24.187;Cultural ;Independente;1
+427;RS;Três Passos;23.912;Globo;Independente;1
+428;RS;Uruguaiana;125.320;Rosalina Pandolfo Lisboa (Antigo Cine Pampa);Independente;1
+429;RS;Venâncio Aires;66.308;Cine Via Sete (Venâncio Aires);Independente;1
+430;RS;Viamão;240.302;Cine Santa Isabel;Independente;1
+431;SC;Araranguá;61.817;Cine CAVERÁ;Independente;1
+432;SC;Balneário Camboriú;110.747;Atlântico;Arco;2
+433;SC;Balneário Camboriú;110.747;Gnc Camboriu Shopping;Gnc;5
+434;SC;Blumenau;312.634;Cinépolis Blumenau Norte Shopping;Cinépolis;7
+435;SC;Blumenau;312.634;Gnc Blumenau;Gnc;6
+436;SC;Brusque;107.763;Gracher / Real;Independente;3
+437;SC;Caçador;71.333;Cine Que Luz Caçador;Independente;1
+438;SC;Canoinhas;52.852;Cine Que Luz Canoinhas;Independente;1
+439;SC;Chapecó;186.336;Arcoplex Chapeco;Arco;4
+440;SC;Concórdia;69.048;Cine Arte Concórdia;Independente;1
+441;SC;Criciúma;193.988;Cine Della Giustina;Arco;2
+442;SC;Criciúma;193.988;Criciúma;Arco;2
+443;SC;Curitibanos;37.877;Cine Que Luz Curitibanos ;Independente;1
+444;SC;Florianópolis;427.298;Cine Clube Sol Da Terra;Independente;1
+445;SC;Florianópolis;427.298;Cinemark Shopping Floripa;Cinemark;7
+446;SC;Florianópolis;427.298;Cinespaço Beiramar Shopping;Espaço;5
+447;SC;Florianópolis;427.298;Cinesystem Shopping Iguatemi;Cinesystem;7
+448;SC;Florianópolis;427.298;Paradigma Cine Arte;Independente;1
+449;SC;Itajaí;186.127;Itajaí;Arco;2
+450;SC;Jaraguá Do Sul;145.781;Arcoiris Breithaupt;Arco;3
+451;SC;Joinville;520.905;Gnc Mueller;Gnc;3
+452;SC;Joinville;520.905;Joinville Garten Shopping ;Gnc;6
+453;SC;Lages;156.664;Cine Marrocos;Arco;1
+454;SC;Lages;156.664;Serra Shopping;Arco;2
+455;SC;Mafra;53.140;Cine Hotel Emacite;Independente;1
+456;SC;Palhoça;139.989;Via Catarina;Arco;4
+457;SC;Rio Do Sul;61.931;Cine Rio Do Sul;Gcine;2
+458;SC;São Francisco Do Sul;43.304;Cine São Francisco Do Sul;Gcine;2
+459;SC;São Francisco Do Sul;43.304;Cine Teatro X De Novembro;Independente;1
+460;SC;São José;212.586;Itaguaçu;Arco;5
+461;SC;São Miguel Do Oeste;36.612;Cine Peperi;Independente;1
+462;SC;Tubarão;97.833;Espaço Farol De Cinema (Farol Shopping);Espaço;4
+463;SC;Videira;47.618;Shopping Videira;Gcine;2
+464;SE;Aracaju;579.563;Cinemark Riomar;Cinemark;5
+465;SE;Aracaju;579.563;Shopping Jardins;Cinemark;9
+466;SP;Adamantina;33.820;Cine Cyber Planet;Independente;1
+467;SP;Altinópolis;15.617;Prefeitura Altinópolis;Independente;1
+468;SP;Amparo;66.245;Cine Duplex;Aga;2
+469;SP;Andradina;55.347;Cine Andradina;Gcine;2
+470;SP;Araçatuba;182.525;Cine Araçatuba;Araujo;3
+471;SP;Araraquara;210.672;Lupo;Independente;3
+472;SP;Araraquara;210.672;Moviecom Jaraguá;Moviecom;4
+473;SP;Araras;119.967;Cine Araras;Independente;1
+474;SP;Assis;95.750;Cinema FAC;Independente;1
+475;SP;Atibaia;127.778;Cine Atibaia;Centerplex;1
+476;SP;Avaré;83.430;Cine Veneza -Avaré;Chainça;1
+477;SP;Bariri;31.852;Cinema Beluzzo ;Independente;1
+478;SP;Barretos;112.729;Centerplex North Shopping  Barretos;Centerplex;3
+479;SP;Barueri;243.241;Cinépolis Iguatemi Alphaville;Cinépolis;9
+480;SP;Barueri;243.241;Shopping Tamboré;Cinemark;9
+481;SP;Batatais;56.888;Cine Batatais;Independente;1
+482;SP;Bauru;346.076;Alameda Quality Center - Cine'n Fun;Independente;4
+483;SP;Bauru;346.076;Multiplex Bauru Shopping;Araujo;5
+484;SP;Bebedouro;75.052;Cine Bebedouro/Ouro Branco;Independente;1
+485;SP;Birigui;109.835;Cine Galleria / Cine Lúmine;Independente;1
+486;SP;Boituva;49.384;Cine Shopping Villa Douro;Cinemac;1
+487;SP;Botucatu;128.788;Cine Nelly;Araujo;1
+488;SP;Brotas;21.787;Cine São José -Brotas;Independente;1
+489;SP;Cajati;28.306;Cine Adc Vale;Independente;1
+490;SP;Campinas;1.088.611;Box Campinas (Campinas Shopping);Box;10
+491;SP;Campinas;1.088.611;Cinema Kinoplex D. Pedro;Gsr;15
+492;SP;Campinas;1.088.611;Galleria;Cinesystem;5
+493;SP;Campinas;1.088.611;Moviecom UNIMART;Moviecom;4
+494;SP;Campinas;1.088.611;Shopping Iguatemi;Cinemark;8
+495;SP;Campinas;1.088.611;Topázio Cinemas Parque Prado;Lui;4
+496;SP;Capivari;49.122;Cine Vera Cruz;Centerplex;1
+497;SP;Caraguatatuba;102.522;Cine Caraguá;Afa;1
+498;SP;Caraguatatuba;102.522;Serramar Parque Shopping ;Centerplex;4
+499;SP;Casa Branca;28.423;Cine Teatro Casa Branca;Independente;1
+500;SP;Catanduva;113.355;Cine Bandeirantes + Cine República (Cine Catanduva);Chainça;2
+501;SP;Catanduva;113.355;Lumiere Catanduva Shopping;Lumiere;3
+502;SP;Cesário Lange;15.744;Cine São José - Cesário;Cinemac;1
+503;SP;Cotia;205.154;Cinespaço The Square;Espaço;6
+504;SP;Cotia;205.154;Shopping Granja Vianna;Cinemark;5
+505;SP;Cruzeiro;77.311;Cine CRUZEIRO;Independente;1
+506;SP;Descalvado;31.220;Cine Teatro Estação;Independente;1
+507;SP;Diadema;388.575;Shopping Praça Da Moça;Play;7
+508;SP;Dois Córregos;24.933;Centro Cultural Nilson Prado T;Independente;1
+509;SP;Embu;242.730;Embu Plaza Shopping;Independente;2
+510;SP;Espírito Santo Do Pinhal;42.017;Cineart Café/Casarão;Independente;1
+511;SP;Fernandópolis;64.930;Cine Fernandópolis;Independente;2
+512;SP;Franca;321.012;Moviecom Franca;Moviecom;4
+513;SP;Guaíra;37.618;Casa De Cultura João Augusto De Melo;Independente;1
+514;SP;Guaratinguetá;112.675;Cinemais Guaratinguetá ;Cinemais;4
+515;SP;Guarujá;292.743;Cine 3 - Ferry Boat´S Plaza;Independente;3
+516;SP;Guarujá;292.743;Multicine La Plage;Independente;3
+517;SP;Guarulhos;1.233.436;Circuito Cinemas;Circuito;6
+518;SP;Guarulhos;1.233.436;Guarulhos (Antigo Hoyts);Cinemark;15
+519;SP;Ibitinga;53.660;Cine Assari;Independente;1
+520;SP;Ibitinga;53.660;Cine Ibitinga;Independente;1
+521;SP;Igarapava;28.108;Igarapava Cine Teatro;Independente;1
+522;SP;Iguape;28.950;Cine Teatro Iguape;Independente;1
+523;SP;Ilha Solteira;25.146;Cine Paiaguás;Independente;1
+524;SP;Indaiatuba;205.808;Cinemas Multiplex Topázio;Lui;4
+525;SP;Indaiatuba;205.808;Polo Shopping Indaiatuba;Independente;5
+526;SP;Itanhaém;88.213;Cinemar;Independente;2
+527;SP;Itapetininga;145.821;Cine Itapetininga - Sp;Gcine;2
+528;SP;Itapeva;88.128;Cine Itapeva;Chainça;1
+529;SP;Itapevi;203.712;Centerplex Ita;Centerplex;2
+530;SP;Itapira;68.933;Cine Plaza Shopping;Aga;1
+531;SP;Itápolis;40.228;Cine Clube Itapolis;Independente;1
+532;SP;Itatiba;103.027;Millenium;Independente;2
+533;SP;Itu;155.589;Cine Plaza -Itu;Araujo;3
+534;SP;Ituverava;38.881;Ituverava;Independente;1
+535;SP;Jaboticabal;71.989;Cine Shopping Jaboticabal - Ouro Branco;Independente;1
+536;SP;Jacareí;212.743;Cine Prime;Cinemark;5
+537;SP;Jaguariúna;45.440;Cine Company Jaguar Shopping;Company;1
+538;SP;Jandira;109.613;Circuito Cinemas Jandira;Circuito;2
+539;SP;Jaú;132.493;Circuito Passos Jaú;Moviecom;2
+540;SP;Jundiaí;373.713;Moviecom Maxi;Moviecom;7
+541;SP;Junqueirópolis;18.858;Cine Cyber Planet- Junqueirópolis;Independente;1
+542;SP;Leme;92.600;Cine Avenida;Independente;1
+543;SP;Lençóis Paulista;61.918;Center Paulista Lençois;Independente;2
+544;SP;Limeira;278.093;Pátio Limeira;Arco;4
+545;SP;Lins;71.853;Cine Center Lins;Chainça;1
+546;SP;Marília;218.228;CINE ESMERALDA / Cine Movieboxse7;Independente;3
+547;SP;Marília;218.228;Cinemais Marília (Aquarius);Cinemais;5
+548;SP;Matão;77.172;Cine Teatro Matão;Independente;2
+549;SP;Mauá;421.184;Multiplex Mauá;Araujo;5
+550;SP;Miguelópolis;20.561;Cine Teatro Miguelopolis;Independente;1
+551;SP;Mococa;66.345;Cine Mococa;Independente;1
+552;SP;Mogi Das Cruzes;392.195;Centerplex Mogi;Centerplex;4
+553;SP;Mogi Guaçu;138.244;Intercine;Aga;1
+554;SP;Mogi Mirim;86.892;Center Cine Mogi;Aga;3
+555;SP;Monte Alto;46.874;Cine Teatro Antônio Mazza;Independente;1
+556;SP;Olímpia;50.332;Cine Capitólio;Chainça;1
+557;SP;Orlândia;40.071;Municipal De Orlândia;Independente;1
+558;SP;Osasco;667.826;Cinemark Osasco/Shopping União;Cinemark;10
+559;SP;Osasco;667.826;Kinoplex Osasco;Gsr;7
+560;SP;Osasco;667.826;Osasco Plaza;Rbm;4
+561;SP;Osvaldo Cruz;31.014;Cine São José;Independente;1
+562;SP;Ourinhos;103.739;Cine Center ;Chainça;2
+563;SP;Paraguaçu Paulista;42.482;Cine Teatro Municipal Lucila Nascimento;Independente;1
+564;SP;Paulínia;84.512;Top Cine Paulínia;Independente;2
+565;SP;Pederneiras;41.872;Sétima Arte;Independente;1
+566;SP;Pedreira;42.045;Cine Company Plaza;Company;1
+567;SP;Penápolis;58.807;Cine Lumine;Independente;1
+568;SP;Penápolis;58.807;Cine Lumine Shopping;Independente;1
+569;SP;Peruíbe;60.412;Cine Vitoria Regia;Independente;2
+570;SP;Piedade;52.297;Cine Piedade;Independente;1
+571;SP;Piracicaba;367.289;Cine Shopping Piracicaba;Araujo;5
+572;SP;Piraju;28.519;Cinemax Piraju;Independente;1
+573;SP;Pirajuí;22.904;Cine São Salvador;Independente;1
+574;SP;Pirassununga;70.481;Cine AFA;Independente;1
+575;SP;Pompéia;20.102;Aris;Independente;1
+576;SP;Porto Feliz;49.152;Dimencine Porto Feliz / Sala Vermelha;Independente;1
+577;SP;Porto Ferreira;51.704;Cine Grêmio Ferroviário;Independente;1
+578;SP;Praia Grande;267.306;Cinesystem Litoral Praia Grande;Cinesystem;6
+579;SP;Presidente Epitácio;41.473;Cine Company;Company;1
+580;SP;Presidente Prudente;209.024;Americanas;Arco;3
+581;SP;Presidente Prudente;209.024;Moviecom Prudenshopping;Moviecom;4
+582;SP;Presidente Venceslau;37.953;Super Cine Presidente Venceslau;Independente;1
+583;SP;Registro;54.300;Ribeira;Independente;1
+584;SP;Ribeirão Preto;612.339;Cineclube Cauim;Independente;1
+585;SP;Ribeirão Preto;612.339;Cinépolis Santa Úrsula;Cinépolis;8
+586;SP;Ribeirão Preto;612.339;Novo Shopping;Cinemark;7
+587;SP;Ribeirão Preto;612.339;Uci Ribeirão;Uci;11
+588;SP;Rio Claro;187.637;Rio Claro;Arco;5
+589;SP;Salto;106.464;Cineclube Salto;Independente;2
+590;SP;Santa Bárbara D'oeste;180.771;Moviecom Tivoli;Moviecom;4
+591;SP;Santa Cruz Das Palmeiras;30.268;Palmeiras;Independente;1
+592;SP;Santa Cruz Do Rio Pardo;44.151;Cine São Pedro;Independente;1
+593;SP;Santa Fé Do Sul;29.448;CIC-Centro De Int. De Cult.;Independente;1
+594;SP;Santo André;678.485;Abc Plaza;Cinemark;10
+595;SP;Santo André;678.485;Multiplex ABC;Play;5
+596;SP;Santos;419.509;Cinearte Posto 4;Independente;1
+597;SP;Santos;419.509;Espaço Unibanco Miramar;Espaço;3
+598;SP;Santos;419.509;Praiamar Shopping;Cinemark;10
+599;SP;Santos;419.509;Roxy 5 Gonzaga;Roxy;5
+600;SP;Santos;419.509;Roxy Patio Iporanga;Roxy;4
+601;SP;São Bernardo Do Campo;770.253;Cacilda Becker;Independente;1
+602;SP;São Bernardo Do Campo;770.253;Extra Anchieta;Cinemark;9
+603;SP;São Caetano Do Sul;149.962;Parkshopping São Caetano;Cinemark;7
+604;SP;São Carlos;224.172;Cine São Carlos ;Independente;1
+605;SP;São Carlos;224.172;São Carlos Iguatemi;Araujo;3
+606;SP;São Carlos;224.172;Sesc São Carlos;Independente;1
+607;SP;São João Da Boa Vista;84.119;Cine Ouro Branco;Independente;1
+608;SP;São José Do Rio Pardo;52.040;Cine Colombo;Independente;1
+609;SP;São José Do Rio Preto;412.075;Cine Eldorado;Chainça;1
+610;SP;São José Do Rio Preto;412.075;Cinemais S.J.R.P. (Plaza Avenida);Cinemais;7
+611;SP;São José Do Rio Preto;412.075;Multiplex Rio Preto Shopping + Cine Vip;Araujo;7
+612;SP;São José Dos Campos;636.876;Center Vale;Cinemark;6
+613;SP;São José Dos Campos;636.876;Shopping Colinas;Cinemark;8
+614;SP;São José Dos Campos;636.876;Vale Sul Shopping;Cinesystem;6
+615;SP;São Manuel;38.480;Cine Teatro São Manuel;Independente;1
+616;SP;São Paulo;11.316.149;Box Cinemas Itaquera;Box;8
+617;SP;São Paulo;11.316.149;Butantã;Play;3
+618;SP;São Paulo;11.316.149;Center Norte;Cinemark;5
+619;SP;São Paulo;11.316.149;Centerplex Lapa;Centerplex;3
+620;SP;São Paulo;11.316.149;Central Plaza;Cinemark;10
+621;SP;São Paulo;11.316.149;Cine Livraria Cultural;Espaço;2
+622;SP;São Paulo;11.316.149;Cine Morumbi (Cine Tam);Espaço;4
+623;SP;São Paulo;11.316.149;Cine Sabesp (Ex Cinema Da Vila);Espaço;1
+624;SP;São Paulo;11.316.149;Cine Segall;Independente;1
+625;SP;São Paulo;11.316.149;Cine Uol Lumiere (Itaim Bibi);Play;2
+626;SP;São Paulo;11.316.149;Cinema Kinoplex Itaim;Gsr;6
+627;SP;São Paulo;11.316.149;Cinemark Pátio Paulista;Cinemark;7
+628;SP;São Paulo;11.316.149;Cinemark Raposo;Cinemark;7
+629;SP;São Paulo;11.316.149;Cinemark Shopping Cidade Jardim;Cinemark;7
+630;SP;São Paulo;11.316.149;Cinépolis Largo 13;Cinépolis;8
+631;SP;São Paulo;11.316.149;Cinesesc;Independente;1
+632;SP;São Paulo;11.316.149;Eldorado ;Cinemark;9
+633;SP;São Paulo;11.316.149;Espaço Unibanco De Cinema- Augusta;Espaço;5
+634;SP;São Paulo;11.316.149;Espaço Unibanco Pompéia (Cinearte Pompéia);Espaço;11
+635;SP;São Paulo;11.316.149;Interlagos;Cinemark;10
+636;SP;São Paulo;11.316.149;Interlar Aricanduva;Cinemark;13
+637;SP;São Paulo;11.316.149;Itaim Paulista ;Independente;2
+638;SP;São Paulo;11.316.149;Marabá;Play;5
+639;SP;São Paulo;11.316.149;Market Place;Cinemark;8
+640;SP;São Paulo;11.316.149;Metro Santa Cruz;Cinemark;11
+641;SP;São Paulo;11.316.149;Metro Tatuape;Cinemark;8
+642;SP;São Paulo;11.316.149;Moviecom Boa Vista;Moviecom;5
+643;SP;São Paulo;11.316.149;Moviecom Penha;Moviecom;6
+644;SP;São Paulo;11.316.149;Multiplex Bristol;Play;7
+645;SP;São Paulo;11.316.149;Museu Da Imagem E Do Som;Independente;1
+646;SP;São Paulo;11.316.149;Pátio Higienópolis;Cinemark;6
+647;SP;São Paulo;11.316.149;Paulista (PLAY);Play;2
+648;SP;São Paulo;11.316.149;Plaza Sul (Play);Play;6
+649;SP;São Paulo;11.316.149;Reserva Cultural De Cinema ;Independente;4
+650;SP;São Paulo;11.316.149;Shopping Boulevard Tatuapé;Cinemark;5
+651;SP;São Paulo;11.316.149;Shopping Campo Limpo;Araujo;5
+652;SP;São Paulo;11.316.149;Shopping D;Cinemark;10
+653;SP;São Paulo;11.316.149;Shopping Iguatemi Sp;Cinemark;6
+654;SP;São Paulo;11.316.149;Shopping Mooca;Cinemark;6
+655;SP;São Paulo;11.316.149;Sp Market;Cinemark;11
+656;SP;São Paulo;11.316.149;Uci Anália;Uci;9
+657;SP;São Paulo;11.316.149;Uci Jardim Sul;Uci;11
+658;SP;São Paulo;11.316.149;Uci Santana Parque Shopping ;Uci;8
+659;SP;São Paulo;11.316.149;Unibanco Arteplex Sp (Frei Caneca);Espaço;9
+660;SP;São Paulo;11.316.149;Vila Olímpia ;Gsr;7
+661;SP;São Paulo;11.316.149;Villa Lobos;Cinemark;7
+662;SP;São Paulo;11.316.149;West Plaza (Play);Play;2
+663;SP;São Pedro;31.951;Cine Teatro São Pedro (Shopping São Pedro);Independente;1
+664;SP;São Roque;79.756;Center São Roque;Independente;2
+665;SP;São Sebastião;75.163;Cine Villa Mares;Afa;2
+666;SP;São Vicente;334.663;Roxy Brisamar;Roxy;6
+667;SP;Serra Negra;26.582;Cine Company Serra Negra;Company;1
+668;SP;Sertãozinho;111.257;Starcine Sertãozinho;Independente;2
+669;SP;Socorro;36.992;Cine Cavaliere Orlandi;Afa;1
+670;SP;Sorocaba;593.775;Cine Shopping Esplanada ;Araujo;5
+671;SP;Sorocaba;593.775;Cineplay Panorâmico;Independente;2
+672;SP;Sorocaba;593.775;Cineplay Sorocaba;Independente;8
+673;SP;Sorocaba;593.775;Cinespaço Villaggio Shopping;Espaço;4
+674;SP;Sumaré;244.733;Cine Sumaré - Sp;Afa;2
+675;SP;Suzano;265.074;Centerplex Suzano;Centerplex;5
+676;SP;Taboão Da Serra;248.127;Multiplex Taboão;Araujo;5
+677;SP;Tatuí;108.393;Santa Helena;Cinemac;2
+678;SP;Taubaté;281.336;Moviecom Taubaté;Moviecom;4
+679;SP;Tupã;63.487;Meqecine;Independente;1
+680;SP;Ubatuba;79.717;Cine Porto;Afa;1
+681;SP;Valinhos;108.621;Cine Valinhos;Independente;3
+682;SP;Vargem Grande Do Sul;39.494;Cine Santa Clara;Independente;1
+683;SP;Votuporanga;85.387;Votuporanga;Independente;1
+684;TO;Araguaína;153.350;Top Cine Araguaína;Independente;2
+685;TO;Palmas;235.315;Cine Cultura / Sinhozinho;Independente;1
+686;TO;Palmas;235.315;Cinemark Capim Dourado;Cinemark;6
+;;;;;;
+"""* Os dados são referentes as Estimativas de População publicadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) que apresenta estimativas populacionais anuais de população para os municípios e para as Unidades da Federação brasileiros, com data de referência em 1º de julho de cada ano. Disponível em https://www.ibge.gov.br/estatisticas-novoportal/sociais/populacao/9103-estimativas-de-populacao.html?=&t=o-que-e""";;;;;;
+"""Fontes: Sistema de Registro – ANCINE, Sistema de Acompanhamento da Distribuição em Salas de Exibição (SADIS), IBGE, Filme B e outras fontes secundárias.""";;;;;;
+"""Elaboração: Coordenação do Observatório do Cinema e do Audiovisual - COB/SAM/ANCINE. Publicado em 09/07/2018.""";;;;;;
